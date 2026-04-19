@@ -29,7 +29,7 @@ flowchart LR
 ## Tech stack
 - Python
 - Streamlit
-- pandas
+- Standard library data structures
 - pytest
 
 ## Quick start
